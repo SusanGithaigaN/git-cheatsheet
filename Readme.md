@@ -115,3 +115,6 @@ In this section, you will learn how to push your code to a remote repository on 
 - git fetch
 
 Now you know how to push your code to a remote repository on GitHub, how to clone a remote repository, and how to pull changes from the remote repository into your local repository.
+
+
+In summary, Git provides several tools for troubleshooting and help, including common issue solutions, accessing logs, and using Git help. These tools can help users efficiently use Git and resolve any issues that may arise.
